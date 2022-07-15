@@ -1,0 +1,6 @@
+Pasos para iniciar el servidor:
+ 
+1) Hacer doble click en Preparar Aplicacion.
+2) Hacer doble click en iniciar aplicacion.
+
+Luego ingresara automaticamente al sitio web.
